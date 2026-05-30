@@ -27,7 +27,7 @@ export function WelcomeScreen({ onStart }: WelcomeScreenProps) {
         transition={{ duration: 0.5 }}
       >
         <Image
-          src="/logo.svg"
+          src="/apple-icon.png"
           alt="iKYC Logo"
           width={100}
           height={40}
